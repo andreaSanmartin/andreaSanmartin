@@ -36,25 +36,53 @@ I'm a Software Developer focused on building maintainable and scalable applicati
 
 ## 🛠️ Tech Stack
 
-### Backend
-`C#` `.NET` `ASP.NET Core` `REST APIs`
+### Backend & APIs
 
-### Frontend
-`Angular` `TypeScript` `JavaScript` `React` `Tailwind CSS`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" title="C#" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="42" title=".NET" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI" />
+</p>
 
-### Database
-`PostgreSQL` `SQL`
+### Frontend & Mobile
 
-### Architecture
-`Clean Architecture` `SOLID` `Design Patterns` `Multi-Tenant Systems`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="42" title="Angular" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="42" title="Flutter" />
+</p>
 
-### DevOps & Tools
-`Docker` `Docker Compose` `Git` `GitHub`
+### Database & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" title="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" title="GitHub" />
+</p>
+
+### Architecture & Engineering
+
+`Clean Architecture` · `SOLID` · `Design Patterns` · `REST APIs` · `Multi-Tenant Systems`
 
 ### AI & Automation
-`AI-assisted Development` `n8n` `Selenium`
 
----
+`AI-assisted Development` · `n8n` · `Selenium` · `Browser Automation`
 
 ## 🚀 Featured Projects
 
