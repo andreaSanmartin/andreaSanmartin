@@ -91,7 +91,7 @@ trade-offs and scalability considerations behind each solution.
 
 ## 🏆 Certifications & Continuous Learning
 
-New certifications and professional credentials will be added here as I complete them.
+
 
 ---
 
