@@ -117,9 +117,9 @@ trade-offs and scalability considerations behind each solution.
 
 ---
 
-## 🏆 Certifications & Continuous Learning
+## 🌐 Portafolio
 
-
+👉 **Visita mi portafolio:** [portfolio-andrea-six.vercel.app](https://portfolio-andrea-six.vercel.app)
 
 ---
 
